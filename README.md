@@ -10,31 +10,31 @@ This project's goal is to provide an easy-to-use & -edit 3rd Person Template for
 # Dynamic Input Mapping System Setup Guide
 
 ![plugin-image](/guide/enhanced_input_remapping_system/2-plugin.jpg)
-######1. Enable the plugin
+###### 1. Enable the plugin
 
 
 ![asset-creation-image](/guide/enhanced_input_remapping_system/3-asset-creation.jpg)
-######2a. Create the enhanced input assets
+###### 2a. Create the enhanced input assets
 
 
 ![asset-creation-image](/guide/enhanced_input_remapping_system/4-assets-setup.jpg)
-######2b. Setup the enhanced input assets
+###### 2b. Setup the enhanced input assets
 
 
-######3a. Create a character blueprint
+###### 3a. Create a character blueprint
 
 
 ![asset-creation-image](/guide/enhanced_input_remapping_system/5-bp-setup.jpg)
-######3b. Setup a blueprint with the enhanced input nodes in the character blueprint
+###### 3b. Setup a blueprint with the enhanced input nodes in the character blueprint
 
 
 ![asset-creation-image](/guide/enhanced_input_remapping_system/6-key-remapping-logic.jpg)
-######3c. Setup a function with the key remapping logic in the character blueprint
+###### 3c. Setup a function with the key remapping logic in the character blueprint
 
 
 ![asset-creation-image](/guide/enhanced_input_remapping_system/7-key-remapping-setup.jpg)
-######3d. Setup a call function for key remapping in the character blueprint
+###### 3d. Setup a call function for key remapping in the character blueprint
 
 
 ![asset-creation-image](/guide/enhanced_input_remapping_system/8-trigger-key-remapping.jpg)
-######4. Setup trigger logic that can call the key remapping function
+###### 4. Setup trigger logic that can call the key remapping function
