@@ -14,7 +14,7 @@ This project's goal is to provide an easy-to-use & -edit 3rd Person Template for
 
 
 ## 2a. Create the enhanced input assets
-![asset-creation-image](/guide/enhanced_input_remapping_system/3-asset-creation.jpg)
+![asset-creation-image](/guide/enhanced_input_remapping_system/3-asset-creation.jpg)  
   I created two different input contexts to easily reset the mappings, one contains the current mappings and the other contains the default mappings.
 
 ## 2b. Setup the enhanced input assets
