@@ -15,7 +15,7 @@ This project's goal is to provide an easy-to-use & -edit 3rd Person Template for
 
 ## 2a. Create the enhanced input assets
 ![asset-creation-image](/guide/enhanced_input_remapping_system/3-asset-creation.jpg)
-
+I created two different input contexts to easily reset the mappings, one contains the current mappings and the other contains the default mappings.
 
 ## 2b. Setup the enhanced input assets
 ![asset-creation-image](/guide/enhanced_input_remapping_system/4-assets-setup.jpg)
@@ -37,3 +37,5 @@ This project's goal is to provide an easy-to-use & -edit 3rd Person Template for
 
 ## 4. Setup a bleuprint with trigger logic that can call the key remapping function in the character blueprint
 ![asset-creation-image](/guide/enhanced_input_remapping_system/8-trigger-key-remapping.jpg)
+
+*If you want a more in-depth guide, I recommend looking at Unreal's documentation: https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Input/EnhancedInput/*
